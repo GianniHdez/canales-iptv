@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Nacional",adn40 [720p]
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/6rVNUYZyNqiRsmxROIJD1S/a6f24352460a71048d1072942a097695/1107-azteca7.jpg" group-title="Nacional",Azteca 7 [1080p]
@@ -16,7 +16,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Nacional",Teleformula [1080p]
 http://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Series",A&E [720p]
-http://23.239.31.26:8989/aande/index.m3u8
+http://138.121.15.230:9002/A&E/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="Series",a+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/1q05YxTqfArofWpeQA82SE/b258edf5877a6c1426324f0d06353149/adult-swim.webp" group-title="Series",adult swim [SD]
@@ -24,7 +24,7 @@ http://138.121.15.230:9002/ADULT-SWIM/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/1X7Nm9OmAWImHx3McDRHCu/88b9a4ebc3a640ed9268c9c35c650645/1282-antena.jpg" group-title="Series",Antena 3 [720p]
 http://179.51.136.19:8000/play/a0yz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tJQckal.png" group-title="Series",AXN [720p]
-http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgXQz6c.png" group-title="Series",bitMe [SD]
 https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/7m0od4OAHUXYsEMs4lkrGn/58b6c5da1bb226adefc16821814bf963/canal6plus.webp" group-title="Series",Canal 6 Plus [720p]
@@ -36,7 +36,7 @@ http://179.51.136.19:8000/play/a18k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Series",Distrito Comedia [1080p]
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Series",E! [1080p]
-http://23.237.104.106:8080/USA_E/index.m3u8
+http://138.121.15.230:9002/E!/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/7o04QrYIY8U1BU4DCiwj1p/5b5db53b9bc0a50ad00cf0e403eccccb/elgourmet-1237-8-.jpg" group-title="Series",ElGourmet [720p]
 http://179.51.136.19:8000/play/a14h/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/1i8dXWADGmWGfgq8fgYnRB/182c006690d4034bb44513adb678b62d/1234-eurochanel.jpg" group-title="Series",Eurochannel [720p]
@@ -54,7 +54,7 @@ http://179.51.136.19:8000/play/a0yy/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Series",Sony [1080p]
 http://138.121.15.230:9002/SONY/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/37iIyXcdZEHqAmfgzmuHgf/91a0ed354e39c6f0fa54b5f54b20157a/space.webp" group-title="Series",Space [720p]
-http://190.83.85.68/space/index.m3u8
+http://138.121.15.230:9002/SPACE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Series",Star Channel [1080p]
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Series",Stingray Concerts [720p]
@@ -70,7 +70,7 @@ http://190.83.85.68/tlc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Series",TNT Novelas [1080p]
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/7JGXzGWL0DHfnTNLO2bjWY/23c09cc49612ab8d257ce4f41d63e1ae/tnt-series.svg" group-title="Series",TNT Series [720p]
-http://190.83.85.68/tnt_series/index.m3u8
+http://138.121.15.230:9002/TNT-SERIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/2E8pmeSd3VX3dTtlW5Rxeq/ebc313bce099a9a3e25897c0170b162d/1208-unicable.jpg" group-title="Series",Unicable [1080p]
 http://190.83.9.222:8000/play/ca072/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Series",USA Network [1080p]
@@ -78,7 +78,7 @@ http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/1b3dNSRvz3gxLvjLAaPe4F/616915ac13c2daadf7ba1de6f1dd6ca6/warner.svg" group-title="Series",Warner Channel [720p]
 http://190.83.85.68/warner/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Cine",AMC [720p]
-http://23.239.31.26:8989/amc/index.m3u8
+http://138.121.15.230:9002/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine",Cinecanal [1080p]
 http://138.121.15.230:9002/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/523hAL6Sn4J63SfT62d60Z/9712dd1cfa9a7229a037f22b159252dd/cinemax.webp" group-title="Cine",Cinemax [720p]
@@ -92,11 +92,11 @@ http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Cine",Sony Movies [720p]
 http://45.162.64.114/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine",Studio Universal [1080p]
-http://187.102.210.46/universo/index.m3u8
+http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/37aprnllWoDxJDyr4Rcg3x/32cfb22de52621c712d626d1e8536596/TCM.jpg" group-title="Cine",TCM [720p]
-http://190.83.85.68/tcm/index.m3u8
+http://138.121.15.230:9002/TCM/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/1BYjHUSSyPzuWpZ3VsyS60/31bca2443e50ab4cbc889646deb74b9d/tnt.svg" group-title="Cine",TNT [720p]
-http://190.83.85.68/tnt/index.m3u8
+http://138.121.15.230:9002/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Deportes",Claro Sports [720p]
 http://179.51.136.19:8000/play/a16q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN [720p]
@@ -132,7 +132,7 @@ http://138.121.15.230:9002/CARTOON-NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/2iasOq5RheAGPszfhcqjDp/053152a16357d55e7ab318c05998b39c/334-cartoonito.png" group-title="Ninos",Cartoonito [720p]
 http://179.51.136.19:8000/play/a0u9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Ninos",Disney Channel [1080p]
-http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Ninos",Disney Junior
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Ninos",Disney XD [SD]
@@ -152,7 +152,7 @@ http://45.177.114.114/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Conocimiento",History 2 [1080p]
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Conocimiento",National Geographic [1080p]
-http://138.121.15.230:9002/NAT-GEO/index.m3u8
+http://45.162.193.35/NATGEO/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/2nOua78qchsPsCngTdn7Ai/803da1b7946beb00c2b716422cf963d0/1293-nhk.jpg" group-title="Conocimiento",NHK [720p]
 http://190.83.85.68/nhk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tDuKkh3.png" group-title="Conocimiento",RAI [1080p]
@@ -195,3 +195,19 @@ http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 http://45.228.235.116:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0C9KunR.png" group-title="Adultos",VENUS [720p]
 http://179.51.136.19:8000/play/a14s/index.m3u8
+#EXTINF:-1 group-title="Nacional",Imagen TV [720p]
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:-1 group-title="Deportes",Azteca Deportes Network [1080p]
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="Cine",MyTime Movie Network México [720p]
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cine",Popcorn Central [1080p]
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1 group-title="Series",MVS TV [1080p]
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 group-title="Series",Estrella TV [1080p]
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Ninos",El Chavo TV [720p]
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 group-title="Quintana Roo",Canal 5 TV Cozumel [1080p]
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
